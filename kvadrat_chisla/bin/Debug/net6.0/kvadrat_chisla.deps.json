@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "kvadrat_chisla/1.0.0": {
+        "runtime": {
+          "kvadrat_chisla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kvadrat_chisla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

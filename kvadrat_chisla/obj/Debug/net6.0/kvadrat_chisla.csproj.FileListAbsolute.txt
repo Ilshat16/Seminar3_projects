@@ -1,0 +1,15 @@
+D:\Study\3 C#\Seminar\kvadrat_chisla\obj\Debug\net6.0\kvadrat_chisla.csproj.AssemblyReference.cache
+D:\Study\3 C#\Seminar\kvadrat_chisla\obj\Debug\net6.0\kvadrat_chisla.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3 C#\Seminar\kvadrat_chisla\obj\Debug\net6.0\kvadrat_chisla.AssemblyInfoInputs.cache
+D:\Study\3 C#\Seminar\kvadrat_chisla\obj\Debug\net6.0\kvadrat_chisla.AssemblyInfo.cs
+D:\Study\3 C#\Seminar\kvadrat_chisla\obj\Debug\net6.0\kvadrat_chisla.csproj.CoreCompileInputs.cache
+D:\Study\3 C#\Seminar\kvadrat_chisla\bin\Debug\net6.0\kvadrat_chisla.exe
+D:\Study\3 C#\Seminar\kvadrat_chisla\bin\Debug\net6.0\kvadrat_chisla.deps.json
+D:\Study\3 C#\Seminar\kvadrat_chisla\bin\Debug\net6.0\kvadrat_chisla.runtimeconfig.json
+D:\Study\3 C#\Seminar\kvadrat_chisla\bin\Debug\net6.0\kvadrat_chisla.dll
+D:\Study\3 C#\Seminar\kvadrat_chisla\bin\Debug\net6.0\kvadrat_chisla.pdb
+D:\Study\3 C#\Seminar\kvadrat_chisla\obj\Debug\net6.0\kvadrat_chisla.dll
+D:\Study\3 C#\Seminar\kvadrat_chisla\obj\Debug\net6.0\refint\kvadrat_chisla.dll
+D:\Study\3 C#\Seminar\kvadrat_chisla\obj\Debug\net6.0\kvadrat_chisla.pdb
+D:\Study\3 C#\Seminar\kvadrat_chisla\obj\Debug\net6.0\kvadrat_chisla.genruntimeconfig.cache
+D:\Study\3 C#\Seminar\kvadrat_chisla\obj\Debug\net6.0\ref\kvadrat_chisla.dll
