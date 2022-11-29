@@ -1,0 +1,15 @@
+D:\Study\3 C#\Seminar\2_chisla\bin\Debug\net6.0\2_chisla.exe
+D:\Study\3 C#\Seminar\2_chisla\bin\Debug\net6.0\2_chisla.deps.json
+D:\Study\3 C#\Seminar\2_chisla\bin\Debug\net6.0\2_chisla.runtimeconfig.json
+D:\Study\3 C#\Seminar\2_chisla\bin\Debug\net6.0\2_chisla.dll
+D:\Study\3 C#\Seminar\2_chisla\bin\Debug\net6.0\2_chisla.pdb
+D:\Study\3 C#\Seminar\2_chisla\obj\Debug\net6.0\2_chisla.csproj.AssemblyReference.cache
+D:\Study\3 C#\Seminar\2_chisla\obj\Debug\net6.0\2_chisla.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3 C#\Seminar\2_chisla\obj\Debug\net6.0\2_chisla.AssemblyInfoInputs.cache
+D:\Study\3 C#\Seminar\2_chisla\obj\Debug\net6.0\2_chisla.AssemblyInfo.cs
+D:\Study\3 C#\Seminar\2_chisla\obj\Debug\net6.0\2_chisla.csproj.CoreCompileInputs.cache
+D:\Study\3 C#\Seminar\2_chisla\obj\Debug\net6.0\2_chisla.dll
+D:\Study\3 C#\Seminar\2_chisla\obj\Debug\net6.0\refint\2_chisla.dll
+D:\Study\3 C#\Seminar\2_chisla\obj\Debug\net6.0\2_chisla.pdb
+D:\Study\3 C#\Seminar\2_chisla\obj\Debug\net6.0\2_chisla.genruntimeconfig.cache
+D:\Study\3 C#\Seminar\2_chisla\obj\Debug\net6.0\ref\2_chisla.dll

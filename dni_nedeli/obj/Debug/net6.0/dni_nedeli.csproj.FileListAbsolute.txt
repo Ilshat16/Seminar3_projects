@@ -1,0 +1,15 @@
+D:\Study\3 C#\Seminar\dni_nedeli\obj\Debug\net6.0\dni_nedeli.csproj.AssemblyReference.cache
+D:\Study\3 C#\Seminar\dni_nedeli\obj\Debug\net6.0\dni_nedeli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3 C#\Seminar\dni_nedeli\obj\Debug\net6.0\dni_nedeli.AssemblyInfoInputs.cache
+D:\Study\3 C#\Seminar\dni_nedeli\obj\Debug\net6.0\dni_nedeli.AssemblyInfo.cs
+D:\Study\3 C#\Seminar\dni_nedeli\obj\Debug\net6.0\dni_nedeli.csproj.CoreCompileInputs.cache
+D:\Study\3 C#\Seminar\dni_nedeli\bin\Debug\net6.0\dni_nedeli.exe
+D:\Study\3 C#\Seminar\dni_nedeli\bin\Debug\net6.0\dni_nedeli.deps.json
+D:\Study\3 C#\Seminar\dni_nedeli\bin\Debug\net6.0\dni_nedeli.runtimeconfig.json
+D:\Study\3 C#\Seminar\dni_nedeli\bin\Debug\net6.0\dni_nedeli.dll
+D:\Study\3 C#\Seminar\dni_nedeli\bin\Debug\net6.0\dni_nedeli.pdb
+D:\Study\3 C#\Seminar\dni_nedeli\obj\Debug\net6.0\dni_nedeli.dll
+D:\Study\3 C#\Seminar\dni_nedeli\obj\Debug\net6.0\refint\dni_nedeli.dll
+D:\Study\3 C#\Seminar\dni_nedeli\obj\Debug\net6.0\dni_nedeli.pdb
+D:\Study\3 C#\Seminar\dni_nedeli\obj\Debug\net6.0\dni_nedeli.genruntimeconfig.cache
+D:\Study\3 C#\Seminar\dni_nedeli\obj\Debug\net6.0\ref\dni_nedeli.dll
