@@ -1,0 +1,15 @@
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\bin\Debug\net6.0\RandomNum3.exe
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\bin\Debug\net6.0\RandomNum3.deps.json
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\bin\Debug\net6.0\RandomNum3.runtimeconfig.json
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\bin\Debug\net6.0\RandomNum3.dll
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\bin\Debug\net6.0\RandomNum3.pdb
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\obj\Debug\net6.0\RandomNum3.csproj.AssemblyReference.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\obj\Debug\net6.0\RandomNum3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\obj\Debug\net6.0\RandomNum3.AssemblyInfoInputs.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\obj\Debug\net6.0\RandomNum3.AssemblyInfo.cs
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\obj\Debug\net6.0\RandomNum3.csproj.CoreCompileInputs.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\obj\Debug\net6.0\RandomNum3.dll
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\obj\Debug\net6.0\refint\RandomNum3.dll
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\obj\Debug\net6.0\RandomNum3.pdb
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\obj\Debug\net6.0\RandomNum3.genruntimeconfig.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\RandomNum3\obj\Debug\net6.0\ref\RandomNum3.dll
