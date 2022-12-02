@@ -6,9 +6,9 @@ int n1 = int.Parse(Console.ReadLine());
 Console.Write("Введите второе число: ");
 int n2 = int.Parse(Console.ReadLine());
 int result = n1 % n2;
-if (result == 0) Console.WriteLine($"Число {n1} кратно {n2}");
+if (result == 0) Console.WriteLine($"Число {n2} кратно {n1}");
 else 
 {
-    Console.WriteLine($"Число {n1} некратно {n2}");
+    Console.WriteLine($"Число {n2} некратно {n1}");
     Console.WriteLine($"Остатком от деления будет {result}");
 }
