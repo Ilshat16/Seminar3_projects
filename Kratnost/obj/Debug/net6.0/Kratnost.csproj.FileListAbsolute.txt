@@ -1,0 +1,15 @@
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\bin\Debug\net6.0\Kratnost.exe
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\bin\Debug\net6.0\Kratnost.deps.json
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\bin\Debug\net6.0\Kratnost.runtimeconfig.json
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\bin\Debug\net6.0\Kratnost.dll
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\bin\Debug\net6.0\Kratnost.pdb
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\obj\Debug\net6.0\Kratnost.csproj.AssemblyReference.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\obj\Debug\net6.0\Kratnost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\obj\Debug\net6.0\Kratnost.AssemblyInfoInputs.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\obj\Debug\net6.0\Kratnost.AssemblyInfo.cs
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\obj\Debug\net6.0\Kratnost.csproj.CoreCompileInputs.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\obj\Debug\net6.0\Kratnost.dll
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\obj\Debug\net6.0\refint\Kratnost.dll
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\obj\Debug\net6.0\Kratnost.pdb
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\obj\Debug\net6.0\Kratnost.genruntimeconfig.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\Kratnost\obj\Debug\net6.0\ref\Kratnost.dll
