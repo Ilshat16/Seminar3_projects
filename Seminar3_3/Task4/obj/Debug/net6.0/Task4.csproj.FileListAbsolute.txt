@@ -1,0 +1,15 @@
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\bin\Debug\net6.0\Task4.exe
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\bin\Debug\net6.0\Task4.deps.json
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\bin\Debug\net6.0\Task4.dll
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\bin\Debug\net6.0\Task4.pdb
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\obj\Debug\net6.0\Task4.dll
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\obj\Debug\net6.0\refint\Task4.dll
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\obj\Debug\net6.0\Task4.pdb
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+D:\Study\3. С#\Seminar3\Seminar3_projects\Seminar3_3\Task4\obj\Debug\net6.0\ref\Task4.dll
