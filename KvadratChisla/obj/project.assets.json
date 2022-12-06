@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\Task\\Task.csproj",
+      "projectUniqueName": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\KvadratChisla\\Task.csproj",
       "projectName": "Task",
-      "projectPath": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\Task\\Task.csproj",
+      "projectPath": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\KvadratChisla\\Task.csproj",
       "packagesPath": "C:\\Users\\illli\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\Task\\obj\\",
+      "outputPath": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\KvadratChisla\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\illli\\AppData\\Roaming\\NuGet\\NuGet.Config"

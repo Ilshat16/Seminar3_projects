@@ -4,5 +4,5 @@ Console.Write("Введите первое число: ");
 int n1 = int.Parse(Console.ReadLine());
 Console.Write("Введите второе число: ");
 int n2 = int.Parse(Console.ReadLine());
-if (n1 * n1 == n2) Console.WriteLine($"Число {n2} является квадратом {n1}");
-else Console.WriteLine($"Число {n2} не является квадратом {n1}");
+if (n1 * n1 == n2 || n2 * n2 == n1) Console.WriteLine($"Является");
+else Console.WriteLine("Не является");

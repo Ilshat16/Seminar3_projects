@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\NewTask\\NewTask.csproj",
+      "projectUniqueName": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\Kratno7,23\\NewTask.csproj",
       "projectName": "NewTask",
-      "projectPath": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\NewTask\\NewTask.csproj",
+      "projectPath": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\Kratno7,23\\NewTask.csproj",
       "packagesPath": "C:\\Users\\illli\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\NewTask\\obj\\",
+      "outputPath": "D:\\Study\\3. С#\\Seminar3\\Seminar3_projects\\Kratno7,23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\illli\\AppData\\Roaming\\NuGet\\NuGet.Config"
