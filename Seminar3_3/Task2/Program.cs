@@ -10,7 +10,7 @@ string FindQuarter(int quarter)
 }
 int EnterData(string text)
 {
-    Console.WriteLine(text);
+    Console.Write(text);
     int number = int.Parse(Console.ReadLine());
     return number;
 }
@@ -19,4 +19,4 @@ int quarter = EnterData("Номер четверти: ");
 //Анализ данных
 string result = FindQuarter(quarter);
 //Вывод информации
-Console.WriteLine($"В четверти {quarter} {result}");
+Console.WriteLine($"В четверти {quarter}: {result}");
