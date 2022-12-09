@@ -20,5 +20,5 @@ int EnterData(string text)
 }
 //Запрос числа
 int number = EnterData("Введите число: ");
-//Анализ данных
+//Вывод результата
 FindNumbers(number);
