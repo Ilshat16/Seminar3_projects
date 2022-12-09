@@ -17,4 +17,4 @@ string number = EnterData("Ввелите число: ");
 //Выполнение программы
 int result = FindCount(number);
 //Вывод результата
-Console.WriteLine($"Количество цифр в числе {number} равна: {result}");
+Console.WriteLine($"Количество цифр в числе {number} равно: {result}");
