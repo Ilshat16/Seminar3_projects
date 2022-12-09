@@ -3,12 +3,12 @@
 //Методы
 int FindFactorial(int number)
 {
-    int result = 1;
+    int fatorial = 1;
     for (int i = 1; i <= number; i++)
     {
-        result *= i;
+        fatorial *= i;
     }
-    return result;
+    return fatorial;
 }
 int EnterData(string text)
 {
