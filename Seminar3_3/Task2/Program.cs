@@ -1,11 +1,12 @@
 ﻿//Методы
-double FindQuarter(int quarter)
+string FindQuarter(int quarter)
 {
     string result = "";
-    if (quarter == 1) return "x > 0 & y > 0";
-    if (quarter == 2) return "x < 0 & y > 0";
-    if (quarter == 3) return "x < 0 & y < 0";
-    if (quarter == 4) return "x > 0 & y < 0";
+    if (quarter == 1) result = "x > 0 & y > 0";
+    if (quarter == 2) result = "x < 0 & y > 0";
+    if (quarter == 3) result = "x < 0 & y < 0";
+    if (quarter == 4) result = "x > 0 & y < 0";
+    return result;
 }
 int EnterData(string text)
 {
@@ -16,6 +17,6 @@ int EnterData(string text)
 //Запрос четверти
 int quarter = EnterData("Номер четверти: ");
 //Анализ данных
-double result = FindQuarter(quarter);
+string result = FindQuarter(quarter);
 //Вывод информации
 Console.WriteLine($"В четверти {quarter}: {result}");

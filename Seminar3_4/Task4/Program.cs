@@ -10,14 +10,15 @@ int[] CreateArray(int length)
     }
     return array;
 }
-void PrintArray(int[] array)
-{
-    for (int i = 0; i < array.Length - 1; i++)
-    {
-        Console.Write($"{array[i]}, ");
-    }
-    Console.WriteLine(array[array.Length - 1]);
-}
+// void PrintArray(int[] array)
+// {
+//     for (int i = 0; i < array.Length - 1; i++)
+//     {
+//         Console.Write($"{array[i]}, ");
+//     }
+//     Console.WriteLine(array[array.Length - 1]);
+// }
 //Выполнение программы
 int[] array = CreateArray(8);
-PrintArray(array);
+// PrintArray(array);
+Console.Write($"[{string.Join(", ", array)}]");
