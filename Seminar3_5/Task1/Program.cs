@@ -12,17 +12,22 @@ int[] CreateArray(int length, int min, int max)
     }
     return array;
 }
-void SumElements(int[] array)
+int SumElements(int[] array, bool symbol)
 {
-    int sumPositive = 0;
-    int sumNegative = 0;
+    int sum = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        if (array[i] > 0) sumPositive += array[i];
-        else sumNegative += array[i];
+        if (symbol)
+        {
+            if (array[i] > 0) sum += array[i];
+        }
+        else 
+        {
+            if (array[i] < 0) sum += array[i];
+        }
+            
     }
-    Console.WriteLine($"Сумма положительных чисел в массиве равна: {sumPositive}");
-    Console.WriteLine($"Сумма отрицательных чисел в массиве равна: {sumNegative}");
+    return sum;
 }
 //Дано
 int length = 12;
@@ -32,4 +37,7 @@ int max = 9;
 int[] array = CreateArray(length, min, max);
 Console.WriteLine($"[{string.Join(", ", array)}]");
 //Анализ данных
-SumElements(array);
+int sumPositive = SumElements(array, true);
+Console.WriteLine($"Сумма положительных чисел в массиве равна: {sumPositive}");
+int sumNegative = SumElements(array, false);
+Console.WriteLine($"Сумма отрицательных чисел в массиве равна: {sumNegative}");
