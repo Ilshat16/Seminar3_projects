@@ -23,8 +23,8 @@ void SearchNum(int[] array)
 }
 
 //Дано
-int length = 12;
-int max = 123;
+int length = 123;
+int max = 222;
 //Создание массива
 int[] array = CreateArray(length, max);
 Console.WriteLine($"[{string.Join(", ", array)}]");

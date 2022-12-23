@@ -15,22 +15,18 @@ int[] CreateArray(int length, int max)
 void FindMultipli(int[] array)
 {
     int length = array.Length;
-    if (length % 2 == 0)
+    int newlength = length / 2;
+    bool flag = false;
+    if (length % 2 != 0) flag = true;
+    if (flag) newlength = (length / 2) + 1;
+    int[] resultArray = new int[newlength];
+    for (int i = 0; i < newlength; i++)
     {
-        for (int i = 0; i < length / 2; i++)
-        {
-            int multi = array[i] * array[length - 1 - i];
-            Console.Write($"{multi}, ");
-        }
+        int multi = array[i] * array[length - 1 - i];
+        resultArray[i] = multi;
     }
-    else
-    {
-        for (int i = 0; i < (length / 2) + 1; i++)
-        {
-            int multi = array[i] * array[length - 1 - i];
-            Console.Write($"{multi}, ");
-        }
-    }
+    if (flag) resultArray[newlength - 1] = array[length / 2];
+    Console.WriteLine($"[{string.Join(", ", resultArray)}]");
 }
 
 //Дано
