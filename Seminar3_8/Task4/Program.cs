@@ -20,15 +20,21 @@ int[,] ChangeMatrix(int[,] matrix, int rows, int columns)
             }
         }
     }
+    Console.WriteLine($"Удаляем строку {x} и столбец {y}");
     for (int i = 0; i < rows; i++)
     {
         for (int j = 0; j < columns; j++)
         {
+            // строка и столбец минимального элемента пропускаются
             if (i == x || j == y) continue;
             else
             {
+                // вводим новые переменные для обозначения индексов матрицы resultMatrix
                 int k = i;
                 int l = j;
+                // До координат минимального элемента, индексы матриц matrix и resultMatrix
+                // будут совпадать, а после уменьшатся на 1 так как строка и столбец 
+                // минимального элемента пропускаются
                 if (i > x) k = i - 1;
                 if (j > y) l = j - 1;
                 resultMatrix[k, l] = matrix[i, j];
@@ -58,11 +64,11 @@ int[,] FillMatrix(int rows, int columns, int min, int max)
     return matrix;
 }
 
-void PrintMatrix(int[,] matrix, int rows, int columns)
+void PrintMatrix(int[,] matrix)
 {
-    for (int i = 0; i < rows; i++)
+    for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        for (int j = 0; j < columns; j++)
+        for (int j = 0; j < matrix.GetLength(1); j++)
         {
             Console.Write($"{matrix[i, j]} ");
         }
@@ -74,7 +80,7 @@ int rows = EnterData("Введите количество строк: ");
 int columns = EnterData("Введите количество столбцов: ");
 // Создаем двухмерного массива и заполняем его случайными числами.
 int[,] matrix = FillMatrix(rows, columns, 0, 9);
-PrintMatrix(matrix, rows, columns);
-Console.WriteLine();
+PrintMatrix(matrix);
 int[,] resultMatrix = ChangeMatrix(matrix, rows, columns);
-PrintMatrix(resultMatrix, rows, columns);
+Console.WriteLine();
+PrintMatrix(resultMatrix);
